@@ -15,11 +15,15 @@ having limited functionality of the engine I was given to work with.
 Controls:
 
   "A" - Move left
+  
   "D" - Move right
+  
   "Space" - Jump
   
   "E" - Interact
+  
   "I" - Open/Close inventory
+  
   "1-9" - Read Item Description
   
   "Left-click" - Attack
