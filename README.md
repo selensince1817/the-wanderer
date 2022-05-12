@@ -7,6 +7,7 @@ The core packages used here:
   - Swing
   - jbox2d
   - Math
+  
 I have really enjoyed coming up with and embedding several complex features like realistic combat and enemy behaviour, 
 not so much because of its impact on the gameplay but due to the range of various tools I had to use, 
 having limited functionality of the engine I was given to work with.
